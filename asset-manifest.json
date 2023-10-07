@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.778eeed7.css",
+    "main.js": "/static/js/main.3ad47f68.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/arunsoorya.jpg": "/static/media/arunsoorya.852809ec2991258c933d.jpg",
+    "static/media/zoho-logo.png": "/static/media/zoho-logo.c635604451fb0aa3b579.png",
+    "static/media/squadcast-logo.png": "/static/media/squadcast-logo.d7d5115feffb8579983e.png",
+    "index.html": "/index.html",
+    "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
+    "main.3ad47f68.js.map": "/static/js/main.3ad47f68.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778eeed7.css",
+    "static/js/main.3ad47f68.js"
+  ]
+}
